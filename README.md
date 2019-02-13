@@ -2,7 +2,7 @@
 
 ![](TDA3DGIF.gif)
 
-Creation of Rips-complex(es) from random data points in 3D.
+Creation and visualization of <a href="https://en.wikipedia.org/wiki/Vietoris%E2%80%93Rips_complex">Vietoris-Rips-complex(es)</a> from random data points in 3D.
 
 <a href="https://drk4oz.itch.io/topological-data-analysis-01-3d">Try it here</a>
 
